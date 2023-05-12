@@ -22,6 +22,7 @@ I'm currently learning HTML, CSS, JS and Java.
   <img align="center" height="40" alt="nick-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" height="40" alt="nick-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" height="40" alt="nick-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40" alt="nick-C" src="https://logospng.org/wp-content/uploads/c-plus-plus.png" />
 </div>
           
 ---
