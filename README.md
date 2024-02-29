@@ -37,6 +37,9 @@ I'm currently learning HTML, CSS, JS and Java.
 <h2 align="center">Certifications:</h2>
 <h4 align="center">- CertiProf Scrum Foundation Professional Certification SFPC</h4>
 <h4 align="center">- Microsoft AI-900</h4>
+<h4 align="center">- Microsoft AZ-900</h4>
 <h4 align="center">- AWS CLOUD PRACTITIONER FOUNDATIONAL</h4>
 <h4 align="center">- Google Cloud Foundations</h4>
 <h4 align="center">- Google Cloud AI Foundations</h4>
+<h4 align="center">- Power BI/h4>
+
