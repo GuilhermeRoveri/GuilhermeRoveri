@@ -41,5 +41,5 @@ I'm currently learning HTML, CSS, JS and Java.
 <h4 align="center">- AWS CLOUD PRACTITIONER FOUNDATIONAL</h4>
 <h4 align="center">- Google Cloud Foundations</h4>
 <h4 align="center">- Google Cloud AI Foundations</h4>
-<h4 align="center">- Power BI/h4>
+<h4 align="center">- Power BI</h4>
 
