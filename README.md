@@ -26,7 +26,8 @@ I'm currently learning HTML, CSS, JS and Java.
   <img align="center" height="40" alt="nick-GIT" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
   <img align="center" height="40" alt="nick-GIT" src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" />
   <img align="center" height="40" alt="nick-GIT" src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-3628617-3029842.png" /
-  <img align="center" height="40" alt="nick-GIT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dart_programming_language_logo_icon.svg/2048px-Dart_programming_language_logo_icon.svg.png" /
+  <img align="center" height="40" alt="nick-GIT" src="https://static-00.iconduck.com/assets.00/azure-icon-2048x2048-6tt08spf.png" /
+  <img align="center" height="40" alt="nick-GIT" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" /
 </div>
           
 ---
