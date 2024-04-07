@@ -12,7 +12,7 @@ Welcome to my github!
   
 My name is Guilherme Roveri. I currently live in São Paulo - Brazil.
 
-I am a programming student at SENAI - Osasco 
+I am a programming student at SENAI 
 
 I'm currently learning HTML, CSS, JS and Java.
 </div>
