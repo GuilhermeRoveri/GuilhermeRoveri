@@ -22,7 +22,7 @@ I'm currently learning HTML, CSS, JS and Java.
   <img align="center" height="40" alt="nick-CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" height="40" alt="nick-JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" height="40" alt="nick-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" alt="nick-C" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" />
+  
   <img align="center" height="40" alt="nick-GIT" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
   <img align="center" height="40" alt="nick-GIT" src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" />
   <img align="center" height="40" alt="nick-GIT" src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-3628617-3029842.png" /
